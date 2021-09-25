@@ -1,0 +1,1 @@
+Exercícios da disciplina **Estrutura de Dados** do Curso de *Sistemas de Informação* da Universidade FUMEC.
